@@ -1,0 +1,9 @@
+.headerCont{
+    display: flex;
+    width:100vw;
+    height: 10vh;
+    background-color:#a0a0f9ed;
+}
+.hedicon{
+    margin: 10px 10px 0px 20px;
+}
