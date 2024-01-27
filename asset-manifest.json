@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/Tahseenaasif/foodtyappa/myphotofolio/static/css/main.bfa1c14d.css",
+    "main.js": "/Tahseenaasif/foodtyappa/myphotofolio/static/js/main.e3772928.js",
+    "static/media/edit.png": "/Tahseenaasif/foodtyappa/myphotofolio/static/media/edit.21622d04ce8af31a7190.png",
+    "static/media/trash-bin.png": "/Tahseenaasif/foodtyappa/myphotofolio/static/media/trash-bin.e2d7a73c365ba8d4c545.png",
+    "static/media/folder-icon.png": "/Tahseenaasif/foodtyappa/myphotofolio/static/media/folder-icon.d9e2d94508db3c591574.png",
+    "static/media/logo.png": "/Tahseenaasif/foodtyappa/myphotofolio/static/media/logo.7f2906692629e8629a34.png",
+    "static/media/clear.png": "/Tahseenaasif/foodtyappa/myphotofolio/static/media/clear.cc77b84be764a2795bc6.png",
+    "static/media/search.png": "/Tahseenaasif/foodtyappa/myphotofolio/static/media/search.217f7941f58e9f5b10f4.png",
+    "index.html": "/Tahseenaasif/foodtyappa/myphotofolio/index.html",
+    "main.bfa1c14d.css.map": "/Tahseenaasif/foodtyappa/myphotofolio/static/css/main.bfa1c14d.css.map",
+    "main.e3772928.js.map": "/Tahseenaasif/foodtyappa/myphotofolio/static/js/main.e3772928.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.bfa1c14d.css",
+    "static/js/main.e3772928.js"
+  ]
+}
